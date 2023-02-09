@@ -39,3 +39,18 @@ Exemplo : "c:\xampp\htdocs\loja\index.php"
 
 
  02/02/2022
+ 
+ 
+ 08/02/2022
+ 
+ 
+ 
+ ## Tipos de dados
+ - Os valores PHP podem ser dividido entre:
+   - Strings: "Gui"
+   - Integer: 10
+   - Float: Números quebradors Ex : 10.5
+   - Booleanos: True or Falso
+
+ ## Operadores Aritimétricos
+ 
